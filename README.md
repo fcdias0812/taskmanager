@@ -2,6 +2,10 @@
 
 Task Manager é uma plataforma web moderna para gerenciamento de tarefas, desenvolvida com React, TypeScript e Firebase. O sistema permite que usuários cadastrem, visualizem e editem tarefas de forma simples, intuitiva e responsiva.
 
+## 🔗 Acesse o Projeto
+
+[https://taskmanager-gilt-zeta.vercel.app/](https://taskmanager-gilt-zeta.vercel.app/)
+
 ## 📸 Screenshots
 
 ### Dashboard
